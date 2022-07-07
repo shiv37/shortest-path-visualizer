@@ -1,0 +1,2 @@
+# shortest-path-visualizer
+his is a fun project on visualizing path finding algorithms i.e BFS, DFS, Dikstra’s , A* algorithm. This app is entirely built in react and below is the how the interface looks like.. Green box is the starting node and Red box is the end node. You can see the various algorithms below to visualize. Here  design of  grid is done using tables and set first node and second node colors using CSS properties.
